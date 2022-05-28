@@ -4,5 +4,5 @@ Realtime chat app with websockets using Node.js, Express and Socket.io with Vani
 
 #Link 
 
-https://7d-coder.github.io/Chat_cord/
+https://chat-cord4.herokuapp.com/
 
